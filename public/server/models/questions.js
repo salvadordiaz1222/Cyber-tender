@@ -16,6 +16,6 @@ const questionsSchema = new Schema({
   ],
 });
 
-const Profile = model('Profile', questionSchema);
+const Questions = model('Questions', questionsSchema);
 
 module.exports = Questions;
