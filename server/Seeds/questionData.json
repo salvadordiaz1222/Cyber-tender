@@ -9,11 +9,7 @@
     },
     {
     "question": "What flavor do you want?",
-    "choices": ["Fruity", "Spicy", "Sweet", "Dry"]
-    },
-    {
-    "question": "What is your favorite mixer",
-    "choices": ["None", "Cola", "Ginger Ale", "Tonic", "Pineapple Juice", "cranberry Juice"]
+    "choices": ["Spicy", "Sweet", "Dry"]
     },
     {
     "question": "How strong do you want the drink",
