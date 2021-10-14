@@ -6,14 +6,13 @@ const questionsSchema = new Schema({
     type: String,
     required: true,
     unique: true,
-    trim: true,
   },
   choices: [
     {
       type: String,
       trim: true,
     },
-  ],
+  ]
 });
 
 const Questions = model('Questions', questionsSchema);
