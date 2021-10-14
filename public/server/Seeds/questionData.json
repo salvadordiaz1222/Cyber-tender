@@ -1,1 +1,22 @@
-// using unit 21 activity 11 as set up template
+{
+    "question": "What is the main liquor?",
+    "choices": ["Rum", "Tequila", "Vodka", "Whiskey"]
+  },
+  {
+    "question": "Why style of drink do you want?",
+    "choices": ["Neat", "On the rocks", "Frozen"]
+  },
+  {
+    "question": "What flavor do you want?",
+    "choices": ["Fruity", "Spicy", "Sweet", "Dry"]
+  },
+  {
+    "question": "What is your favorite mixer",
+    "choices": ["None", "Cola", "Ginger Ale", "Tonic", "Pineapple Juice", "cranberry Juice"]
+  },
+  {
+    "question": "How strong do you want the drink",
+    "choices": ["Light", "Moderate", "Strong"]
+  },
+
+  
