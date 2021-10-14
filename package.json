@@ -1,0 +1,35 @@
+{
+  "name": "cyber-tender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LRumgay/Cyber-tender.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LRumgay/Cyber-tender/issues"
+  },
+  "homepage": "https://github.com/LRumgay/Cyber-tender#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "compression": "^1.7.4",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.10",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-import": "^2.24.2",
+    "nodemon": "^2.0.12",
+    "prettier": "^2.1.2"
+  }
+}
