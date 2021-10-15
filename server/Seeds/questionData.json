@@ -1,0 +1,18 @@
+[    
+    {
+    "question": "What is the main liquor?",
+    "choices": ["Rum", "Tequila", "Vodka", "Whiskey"]
+    },
+    {
+    "question": "Why style of drink do you want?",
+    "choices": ["Neat", "On the rocks", "Frozen"]
+    },
+    {
+    "question": "What flavor do you want?",
+    "choices": ["Spicy", "Sweet", "Dry"]
+    },
+    {
+    "question": "How strong do you want the drink",
+    "choices": ["Light", "Moderate", "Strong"]
+    }
+]
