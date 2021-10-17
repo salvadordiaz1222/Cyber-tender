@@ -1,18 +1,22 @@
 [    
     {
     "question": "What is the main liquor?",
-    "key": "liquor"
+    "key": "liquor",
+    "order": 1
     },
     {
     "question": "Why style of drink do you want?",
-    "key": "style"
+    "key": "style",
+    "order": 2
     },
     {
     "question": "What flavor do you want?",
-    "key": "flavor"
+    "key": "flavor",
+    "order": 4
     },
     {
     "question": "How strong do you want the drink",
-    "key": "strong"
+    "key": "strong",
+    "order": 3
     }
 ]
