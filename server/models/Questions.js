@@ -7,12 +7,15 @@ const questionsSchema = new Schema({
     required: true,
     unique: true,
   },
-  choices: [
-    {
-      type: String,
-      trim: true,
-    },
-  ]
+  key: {
+    type: String,
+    required: true
+  },
+  order: {
+    type: Number,
+    required: true,
+    default: 0
+  }
 });
 
 const Questions = model('Questions', questionsSchema);
