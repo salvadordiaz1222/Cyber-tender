@@ -1,12 +1,14 @@
-const express = require("express");
-const mongoConnection = require("./config/connection");
-const Drinks = require("./models/Drinks");
+const express = require('express');
+const mongoConnection = require('./config/connection');
+const Drinks = require('./models/Drinks');
 
 const app = express();
+const PORT = process.env.PORT || 3001;
 
+app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-app.post("/options", async (req, res, next) => {
+app.post('/options', async (req, res, next) => {
   /*
     BODY
     {
@@ -43,7 +45,7 @@ app.post("/options", async (req, res, next) => {
   /*
 
     {
-       
+
     }
 
     */
@@ -99,8 +101,10 @@ app.post("/options", async (req, res, next) => {
     */
 });
 
-const PORT = 8080;
 
-app.listen(PORT, () => {
-  console.log(`Example app listening at http://localhost:${PORT}`);
+mongoConnection.once('open', () => {
+  app.listen(PORT, () => console.log(`Now listening on localhost: ${PORT}`));
 });
+// app.listen(PORT, () => {
+//   console.log(`Example app listening at http://localhost:${PORT}`);
+// });
