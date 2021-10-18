@@ -15,30 +15,24 @@ const Navbar = () => {
             <Link 
               className="" 
               to="/">
-              Home
+              Welcome
             </Link>
           </li>
           <li className="">
             <Link 
               className="" 
-              to="/projects">
-              Projects
+              to="/Questions">
+              Questions
             </Link>
           </li>
           <li className="">
             <Link 
               className="" 
-              to="/skills">
-              Skills
+              to="/Drink">
+              Drink
             </Link>
           </li>
-          <li className="nav-item">
-            <Link 
-              className="" 
-              to="/contact">
-              Contact Me
-            </Link>
-          </li>
+          
       </ul>
     </div>
   </div>

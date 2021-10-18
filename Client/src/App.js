@@ -10,7 +10,7 @@ import './App.css';
 function App() {
   return (
     <BrowserRouter>
-    <main className="text-gray-400 bg-gray-900 body-font max-h-screen"> 
+    <main className=""> 
 
       <Navbar />
       <Switch>
