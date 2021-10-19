@@ -11,7 +11,6 @@ const drinksSchema = new Schema({
   liquor: String,
   style: String,
   flavor: String,
-  mixer: String,
   strong: String,
   ingredients: [String],
   directions: String,
