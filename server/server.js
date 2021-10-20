@@ -14,13 +14,19 @@ const PORT = process.env.PORT || 3001;
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-const server = new ApolloServer({
-  typeDefs,
-  resolvers
-});
+const startApolloServer = async () => {
+  const server = new ApolloServer({
+    typeDefs,
+    resolvers,
+  });
+  await server.start();
+  server.applyMiddleware({ app });
+  app.listen(PORT, () => {
+    console.log(`API server running on port ${PORT}!`);
+    console.log(`Use GraphQL at http://localhost:${PORT}${server.graphqlPath}`);
+  });
+};
 
-
-server.applyMiddleware({ app });
 
 
 app.post('/options', async (req, res, next) => {
@@ -126,10 +132,7 @@ if (process.env.NODE_ENV === 'production') {
 
 
 mongoConnection.once('open', () => {
-  app.listen(PORT, () => {
-    console.log(`API server running on port ${PORT}!`);
-    console.log(`Use GraphQL at http://localhost:${PORT}${server.graphqlPath}`);
-  });
+  startApolloServer();
 });
 
 
