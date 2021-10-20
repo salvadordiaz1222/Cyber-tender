@@ -5,8 +5,8 @@
        "style": "Neat",
        "flavor": "Spicy",
        "strong": "Strong",
-       "ingredients": "placeholder ingredients",
-       "direction": "placeholder direction",
+       "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+       "directions": "placeholder direction",
        "image": "http://imageplaceholder.com"
     },
     {
@@ -15,8 +15,8 @@
         "style": "On the rocks",
         "flavor": "Spicy",
         "strong": "Strong",
-        "ingredients": "placeholder ingredients",
-        "direction": "placeholder direction",
+        "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+        "directions": "placeholder directions",
         "image": "http://imageplaceholder.com"
      },
      {
@@ -25,8 +25,8 @@
         "style": "Cocktail",
         "flavor": "Spicy",
         "strong": "Strong",
-        "ingredients": "placeholder ingredients",
-        "direction": "placeholder direction",
+        "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+        "directions": "placeholder directions",
         "image": "http://imageplaceholder.com"
      },
      {
@@ -35,8 +35,8 @@
         "style": "Neat",
         "flavor": "Sweet",
         "strong": "Strong",
-        "ingredients": "placeholder ingredients",
-        "direction": "placeholder direction",
+        "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+        "directions": "placeholder directions",
         "image": "http://imageplaceholder.com"
      },
      {
@@ -45,8 +45,8 @@
          "style": "On the rocks",
          "flavor": "Sweet",
          "strong": "Strong",
-         "ingredients": "placeholder ingredients",
-         "direction": "placeholder direction",
+         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+         "directions": "placeholder directions",
          "image": "http://imageplaceholder.com"
       },
       {
@@ -55,8 +55,8 @@
          "style": "Cocktail",
          "flavor": "Sweet",
          "strong": "Strong",
-         "ingredients": "placeholder ingredients",
-         "direction": "placeholder direction",
+         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+         "directions": "placeholder directions",
          "image": "http://imageplaceholder.com"
       },
       {
@@ -65,8 +65,8 @@
         "style": "Neat",
         "flavor": "Dry",
         "strong": "Strong",
-        "ingredients": "placeholder ingredients",
-        "direction": "placeholder direction",
+        "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+        "directions": "placeholder directions",
         "image": "http://imageplaceholder.com"
      },
      {
@@ -75,8 +75,8 @@
          "style": "On the rocks",
          "flavor": "Dry",
          "strong": "Strong",
-         "ingredients": "placeholder ingredients",
-         "direction": "placeholder direction",
+         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+         "directions": "placeholder directions",
          "image": "http://imageplaceholder.com"
       },
       {
@@ -85,8 +85,8 @@
          "style": "Cocktail",
          "flavor": "Dry",
          "strong": "Strong",
-         "ingredients": "placeholder ingredients",
-         "direction": "placeholder direction",
+         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+         "directions": "placeholder directions",
          "image": "http://imageplaceholder.com"
       },
       {
@@ -95,8 +95,8 @@
         "style": "Neat",
         "flavor": "Spicy",
         "strong": "Moderate",
-        "ingredients": "placeholder ingredients",
-        "direction": "placeholder direction",
+        "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+        "directions": "placeholder directions",
         "image": "http://imageplaceholder.com"
      },
      {
@@ -105,8 +105,8 @@
          "style": "On the rocks",
          "flavor": "Spicy",
          "strong": "Moderate",
-         "ingredients": "placeholder ingredients",
-         "direction": "placeholder direction",
+         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+         "directions": "placeholder directions",
          "image": "http://imageplaceholder.com"
       },
       {
@@ -115,8 +115,8 @@
          "style": "Cocktail",
          "flavor": "Spicy",
          "strong": "Moderate",
-         "ingredients": "placeholder ingredients",
-         "direction": "placeholder direction",
+         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+         "directions": "placeholder directions",
          "image": "http://imageplaceholder.com"
       },
       {
@@ -125,8 +125,8 @@
          "style": "Neat",
          "flavor": "Sweet",
          "strong": "Moderate",
-         "ingredients": "placeholder ingredients",
-         "direction": "placeholder direction",
+         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+         "directions": "placeholder directions",
          "image": "http://imageplaceholder.com"
       },
       {
@@ -135,8 +135,8 @@
           "style": "On the rocks",
           "flavor": "Sweet",
           "strong": "Moderate",
-          "ingredients": "placeholder ingredients",
-          "direction": "placeholder direction",
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "directions": "placeholder directions",
           "image": "http://imageplaceholder.com"
        },
        {
@@ -145,8 +145,8 @@
           "style": "Cocktail",
           "flavor": "Sweet",
           "strong": "Moderate",
-          "ingredients": "placeholder ingredients",
-          "direction": "placeholder direction",
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "directions": "placeholder directions",
           "image": "http://imageplaceholder.com"
        },
        {
@@ -155,8 +155,8 @@
          "style": "Neat",
          "flavor": "Dry",
          "strong": "Moderate",
-         "ingredients": "placeholder ingredients",
-         "direction": "placeholder direction",
+         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+         "directions": "placeholder directions",
          "image": "http://imageplaceholder.com"
       },
       {
@@ -165,8 +165,8 @@
           "style": "On the rocks",
           "flavor": "Dry",
           "strong": "Moderate",
-          "ingredients": "placeholder ingredients",
-          "direction": "placeholder direction",
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "directions": "placeholder directions",
           "image": "http://imageplaceholder.com"
        },
        {
@@ -175,8 +175,8 @@
           "style": "Cocktail",
           "flavor": "Dry",
           "strong": "Moderate",
-          "ingredients": "placeholder ingredients",
-          "direction": "placeholder direction",
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "directions": "placeholder directions",
           "image": "http://imageplaceholder.com"
        },
        {
@@ -185,8 +185,8 @@
         "style": "Neat",
         "flavor": "Spicy",
         "strong": "Light",
-        "ingredients": "placeholder ingredients",
-        "direction": "placeholder direction",
+        "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+        "directions": "placeholder directions",
         "image": "http://imageplaceholder.com"
      },
      {
@@ -195,8 +195,8 @@
          "style": "On the rocks",
          "flavor": "Spicy",
          "strong": "Light",
-         "ingredients": "placeholder ingredients",
-         "direction": "placeholder direction",
+         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+         "directions": "placeholder directions",
          "image": "http://imageplaceholder.com"
       },
       {
@@ -205,8 +205,8 @@
          "style": "Cocktail",
          "flavor": "Spicy",
          "strong": "Light",
-         "ingredients": "placeholder ingredients",
-         "direction": "placeholder direction",
+         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+         "directions": "placeholder directions",
          "image": "http://imageplaceholder.com"
       },
       {
@@ -215,8 +215,8 @@
          "style": "Neat",
          "flavor": "Sweet",
          "strong": "Light",
-         "ingredients": "placeholder ingredients",
-         "direction": "placeholder direction",
+         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+         "directions": "placeholder directions",
          "image": "http://imageplaceholder.com"
       },
       {
@@ -225,8 +225,8 @@
           "style": "On the rocks",
           "flavor": "Sweet",
           "strong": "Light",
-          "ingredients": "placeholder ingredients",
-          "direction": "placeholder direction",
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "directions": "placeholder directions",
           "image": "http://imageplaceholder.com"
        },
        {
@@ -235,8 +235,8 @@
           "style": "Cocktail",
           "flavor": "Sweet",
           "strong": "Light",
-          "ingredients": "placeholder ingredients",
-          "direction": "placeholder direction",
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "directions": "placeholder directions",
           "image": "http://imageplaceholder.com"
        },
        {
@@ -245,8 +245,8 @@
          "style": "Neat",
          "flavor": "Dry",
          "strong": "Light",
-         "ingredients": "placeholder ingredients",
-         "direction": "placeholder direction",
+         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+         "directions": "placeholder directions",
          "image": "http://imageplaceholder.com"
       },
       {
@@ -255,8 +255,8 @@
           "style": "On the rocks",
           "flavor": "Dry",
           "strong": "Light",
-          "ingredients": "placeholder ingredients",
-          "direction": "placeholder direction",
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "directions": "placeholder directions",
           "image": "http://imageplaceholder.com"
        },
        {
@@ -265,8 +265,278 @@
           "style": "Cocktail",
           "flavor": "Dry",
           "strong": "Light",
-          "ingredients": "placeholder ingredients",
-          "direction": "placeholder direction",
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "directions": "placeholder directions",
           "image": "http://imageplaceholder.com"
-        }
+        },
+        {
+         "name": "Tequila Drink 1",
+         "liquor": "Tequila",
+         "style": "Neat",
+         "flavor": "Spicy",
+         "strong": "Strong",
+         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+         "directions": "placeholder directions",
+         "image": "http://imageplaceholder.com"
+      },
+      {
+          "name": "Tequila Drink 2",
+          "liquor": "Tequila",
+          "style": "On the rocks",
+          "flavor": "Spicy",
+          "strong": "Strong",
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "directions": "placeholder directions",
+          "image": "http://imageplaceholder.com"
+       },
+       {
+          "name": "Tequila Drink 3",
+          "liquor": "Tequila",
+          "style": "Cocktail",
+          "flavor": "Spicy",
+          "strong": "Strong",
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "directions": "placeholder directions",
+          "image": "http://imageplaceholder.com"
+       },
+       {
+          "name": "Tequila Drink 4",
+          "liquor": "Tequila",
+          "style": "Neat",
+          "flavor": "Sweet",
+          "strong": "Strong",
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "directions": "placeholder directions",
+          "image": "http://imageplaceholder.com"
+       },
+       {
+           "name": "Tequila Drink 5",
+           "liquor": "Tequila",
+           "style": "On the rocks",
+           "flavor": "Sweet",
+           "strong": "Strong",
+           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+           "directions": "placeholder directions",
+           "image": "http://imageplaceholder.com"
+        },
+        {
+           "name": "Tequila Drink 6",
+           "liquor": "Tequila",
+           "style": "Cocktail",
+           "flavor": "Sweet",
+           "strong": "Strong",
+           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+           "directions": "placeholder directions",
+           "image": "http://imageplaceholder.com"
+        },
+        {
+          "name": "Tequila Drink 7",
+          "liquor": "Tequila",
+          "style": "Neat",
+          "flavor": "Dry",
+          "strong": "Strong",
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "directions": "placeholder directions",
+          "image": "http://imageplaceholder.com"
+       },
+       {
+           "name": "Tequila Drink 8",
+           "liquor": "Tequila",
+           "style": "On the rocks",
+           "flavor": "Dry",
+           "strong": "Strong",
+           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+           "directions": "placeholder directions",
+           "image": "http://imageplaceholder.com"
+        },
+        {
+           "name": "Tequila Drink 9",
+           "liquor": "Tequila",
+           "style": "Cocktail",
+           "flavor": "Dry",
+           "strong": "Strong",
+           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+           "directions": "placeholder directions",
+           "image": "http://imageplaceholder.com"
+        },
+        {
+          "name": "Tequila Drink 10",
+          "liquor": "Tequila",
+          "style": "Neat",
+          "flavor": "Spicy",
+          "strong": "Moderate",
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "directions": "placeholder directions",
+          "image": "http://imageplaceholder.com"
+       },
+       {
+           "name": "Tequila Drink 11",
+           "liquor": "Tequila",
+           "style": "On the rocks",
+           "flavor": "Spicy",
+           "strong": "Moderate",
+           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+           "directions": "placeholder directions",
+           "image": "http://imageplaceholder.com"
+        },
+        {
+           "name": "Tequila Drink 12",
+           "liquor": "Tequila",
+           "style": "Cocktail",
+           "flavor": "Spicy",
+           "strong": "Moderate",
+           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+           "directions": "placeholder directions",
+           "image": "http://imageplaceholder.com"
+        },
+        {
+           "name": "Tequila Drink 13",
+           "liquor": "Tequila",
+           "style": "Neat",
+           "flavor": "Sweet",
+           "strong": "Moderate",
+           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+           "directions": "placeholder directions",
+           "image": "http://imageplaceholder.com"
+        },
+        {
+            "name": "Tequila Drink 14",
+            "liquor": "Tequila",
+            "style": "On the rocks",
+            "flavor": "Sweet",
+            "strong": "Moderate",
+            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+            "directions": "placeholder directions",
+            "image": "http://imageplaceholder.com"
+         },
+         {
+            "name": "Tequila Drink 15",
+            "liquor": "Tequila",
+            "style": "Cocktail",
+            "flavor": "Sweet",
+            "strong": "Moderate",
+            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+            "directions": "placeholder directions",
+            "image": "http://imageplaceholder.com"
+         },
+         {
+           "name": "Tequila Drink 16",
+           "liquor": "Tequila",
+           "style": "Neat",
+           "flavor": "Dry",
+           "strong": "Moderate",
+           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+           "directions": "placeholder directions",
+           "image": "http://imageplaceholder.com"
+        },
+        {
+            "name": "Tequila Drink 17",
+            "liquor": "Tequila",
+            "style": "On the rocks",
+            "flavor": "Dry",
+            "strong": "Moderate",
+            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+            "directions": "placeholder directions",
+            "image": "http://imageplaceholder.com"
+         },
+         {
+            "name": "Tequila Drink 18",
+            "liquor": "Tequila",
+            "style": "Cocktail",
+            "flavor": "Dry",
+            "strong": "Moderate",
+            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+            "directions": "placeholder directions",
+            "image": "http://imageplaceholder.com"
+         },
+         {
+          "name": "Tequila Drink 19",
+          "liquor": "Tequila",
+          "style": "Neat",
+          "flavor": "Spicy",
+          "strong": "Light",
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "directions": "placeholder directions",
+          "image": "http://imageplaceholder.com"
+       },
+       {
+           "name": "Tequila Drink 20",
+           "liquor": "Tequila",
+           "style": "On the rocks",
+           "flavor": "Spicy",
+           "strong": "Light",
+           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+           "directions": "placeholder directions",
+           "image": "http://imageplaceholder.com"
+        },
+        {
+           "name": "Tequila Drink 21",
+           "liquor": "Tequila",
+           "style": "Cocktail",
+           "flavor": "Spicy",
+           "strong": "Light",
+           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+           "directions": "placeholder directions",
+           "image": "http://imageplaceholder.com"
+        },
+        {
+           "name": "Tequila Drink 22",
+           "liquor": "Tequila",
+           "style": "Neat",
+           "flavor": "Sweet",
+           "strong": "Light",
+           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+           "directions": "placeholder directions",
+           "image": "http://imageplaceholder.com"
+        },
+        {
+            "name": "Tequila Drink 23",
+            "liquor": "Tequila",
+            "style": "On the rocks",
+            "flavor": "Sweet",
+            "strong": "Light",
+            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+            "directions": "placeholder directions",
+            "image": "http://imageplaceholder.com"
+         },
+         {
+            "name": "Tequila Drink 24",
+            "liquor": "Tequila",
+            "style": "Cocktail",
+            "flavor": "Sweet",
+            "strong": "Light",
+            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+            "directions": "placeholder directions",
+            "image": "http://imageplaceholder.com"
+         },
+         {
+           "name": "Tequila Drink 25",
+           "liquor": "Tequila",
+           "style": "Neat",
+           "flavor": "Dry",
+           "strong": "Light",
+           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+           "directions": "placeholder directions",
+           "image": "http://imageplaceholder.com"
+        },
+        {
+            "name": "Tequila Drink 26",
+            "liquor": "Tequila",
+            "style": "On the rocks",
+            "flavor": "Dry",
+            "strong": "Light",
+            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+            "directions": "placeholder directions",
+            "image": "http://imageplaceholder.com"
+         },
+         {
+            "name": "Tequila Drink 27",
+            "liquor": "Tequila",
+            "style": "Cocktail",
+            "flavor": "Dry",
+            "strong": "Light",
+            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+            "directions": "placeholder direction",
+            "image": "http://imageplaceholder.com"
+          }
 ]
