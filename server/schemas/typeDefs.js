@@ -1,4 +1,4 @@
-const { gql } = require('apollo-server-express');
+const { gql } = require("apollo-server-express");
 
 const typeDefs = gql`
   # Define which fields are accessible from the Class model
@@ -15,10 +15,7 @@ const typeDefs = gql`
   }
   type Query {
     Drinks: [Drinks]!
-
   }
-
-  
 `;
 
 module.exports = typeDefs;
