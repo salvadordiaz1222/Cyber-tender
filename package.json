@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/LRumgay/Cyber-tender#readme",
   "dependencies": {
+    "@apollo/client": "^3.4.16",
     "bcrypt": "^5.0.0",
     "compression": "^1.7.4",
     "concurrently": "^6.3.0",
