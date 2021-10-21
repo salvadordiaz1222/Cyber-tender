@@ -9,7 +9,7 @@ const Welcome = () => {
                     <br/> 
                     What'll Ya Have??
                     </h1>
-                    <button> CLick here to start</button>
+                    <button> Click here to start</button>
                     
         </section>
     )

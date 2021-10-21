@@ -1,6 +1,6 @@
 const router = require("express").Router();
 
-const { getDrinks } = require("./controllers/drink-controller");
+const { getDrinks } = require("../controllers/drink-controller");
 
 router.post("/options", getDrinks);
 

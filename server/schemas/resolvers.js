@@ -8,26 +8,28 @@ const resolvers = {
       return Drinks.find({});
     },
 
-    getDrinks: async (parent, { options, nextKey }) => {
-      const dbOpt = options.reduce((r, opt) => {
-        r[opt.key] = opt.value;
+    
 
-        return r;
-      }, {});
+//     getDrinks: async (parent, { options, nextKey }) => {
+//       const dbOpt = options.reduce((r, opt) => {
+//         r[opt.key] = opt.value;
 
-      const responses = await Drinks.find(dbOpt);
+//         return r;
+//       }, {});
 
-      if (!nextKey) {
-        return { data: responses, options: nextOptions };
-      }
+//       const responses = await Drinks.find(dbOpt);
 
-      const nextOptions = Array.from(
-        new Set(response.map((opt) => opt[nextKey]))
-      );
+//       if (!nextKey) {
+//         return { data: responses, options: nextOptions };
+//       }
 
-      return { data: responses, options: nextOptions };
-    },
-  },
-};
+//       const nextOptions = Array.from(
+//         new Set(response.map((opt) => opt[nextKey]))
+//       );
+
+//       return { data: responses, options: nextOptions };
+//     },
+ },
+ };
 
 module.exports = resolvers;
