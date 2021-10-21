@@ -1,4 +1,4 @@
-const Drinks = require("../../models/Drinks");
+const Drinks = require("../models/Drinks");
 
 module.exports = {
   async getDrinks(req, res) {

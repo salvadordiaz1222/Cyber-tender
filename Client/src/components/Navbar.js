@@ -5,9 +5,9 @@ export class Navbar extends Component {
     return (
       <div>
           <nav>
-    <div class="nav-wrapper">
-      <a href="#" class="brand-logo left">Logo</a>
-      <ul id="nav-mobile" class="right hide-on-med-and-down">
+    <div className="nav-wrapper">
+      <a href="#" className="brand-logo left">Logo</a>
+      <ul id="nav-mobile" className="right hide-on-med-and-down">
         <li><a href="sass.html">The Bar</a></li>
         <li><a href="badges.html">Drink Menu</a></li>
         <li><a href="collapsible.html">Sign Up</a></li>

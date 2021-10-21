@@ -2,6 +2,7 @@
     {
     "question": "What is the main liquor?",
     "key": "liquor",
+    "liquor": ["rum", "tequila", "Gin"],
     "order": 1
     },
     {

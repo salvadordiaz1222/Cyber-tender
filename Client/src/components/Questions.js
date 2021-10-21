@@ -6,8 +6,6 @@ const Questions = () => {
         <div className="container">
             <form action="/action_page.php">
                 <div className="row">
-                </div>
-                <div className="row">
                     <div className="col-25">
                         <label for="country">Question Placeholder</label>
                     </div>
