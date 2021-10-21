@@ -24,7 +24,7 @@ function App() {
           <Drink />
         </Route>
         </Switch>
-      <Footer />
+    <Footer />
 
     </main>
   </BrowserRouter>
