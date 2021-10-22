@@ -1,4 +1,5 @@
 import Drink from "./components/Drink";
+import Hero from "./components/Hero"
 import Welcome from "./components/Welcome";
 import Navbar from "./components/Navbar";
 import Questions from "./components/Questions";
@@ -13,6 +14,7 @@ function App() {
     <main className=""> 
 
       <Navbar />
+      <Hero />
       <Switch>
         <Route exact path="/">
           <Welcome />
