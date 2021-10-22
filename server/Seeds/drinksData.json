@@ -1,103 +1,104 @@
 [
     {
-       "name": "Rum Drink 1",
+       "name": "MINT TART",
        "liquor": "Rum",
        "style": "Neat",
        "flavor": "Spicy",
        "strong": "Strong",
-       "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-       "directions": "placeholder direction",
-       "image": "http://imageplaceholder.com"
+       "ingredients": ["2 oz rum", "1 grapefruit", "10 mint leaves", "2 tsp agave nectar", "1 tbsp lime juice", "1 oz grapefruit juice", "Splash of sparkling water"  ],
+       "directions": "Muddle 4 grapefruit segments, mint, agave nectar and lime juice in a cocktail shaker. Add the juice and rum, fill with ice, and shake to blend. Strain into a glass with ice and top with sparkling water.",
+       "image": "./Client/src/Images/MintTart.png"
     },
     {
-        "name": "Rum Drink 2",
+        "name": "CINNAMON CIDER",
         "liquor": "Rum",
         "style": "On the rocks",
         "flavor": "Spicy",
         "strong": "Strong",
-        "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-        "directions": "placeholder directions",
-        "image": "http://imageplaceholder.com"
+        "ingredients": ["1 1/4 oz spiced rum", "6 oz hot apple cider", "1 tbsp sugar","1 tsp cinnamon" ],
+        "directions": "Add hot apple cider and spiced rum into a glass rimmed with sugar and cinnamon.",
+        "image": "./Client/src/Images/CinnamonToast.png"
      },
      {
-        "name": "Rum Drink 3",
+        "name": "HAPPY GO LUCKY",
         "liquor": "Rum",
         "style": "Cocktail",
         "flavor": "Spicy",
         "strong": "Strong",
-        "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-        "directions": "placeholder directions",
-        "image": "http://imageplaceholder.com"
+        "ingredients": ["2 oz rum", "1/4 oz crème de menthe", "1/2 oz orange liqueur","1/2 oz lime juice" ],
+        "directions": "Add all ingredients into cocktail shaker filled with ice. Shake and strain into a cocktail glass.",
+        "image": "./Client/src/Images/HappyGoLucky.png"
      },
      {
-        "name": "Rum Drink 4",
+        "name": "THE PHANTOM",
         "liquor": "Rum",
         "style": "Neat",
         "flavor": "Sweet",
         "strong": "Strong",
-        "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-        "directions": "placeholder directions",
-        "image": "http://imageplaceholder.com"
+         "ingredients": ["2 oz white rum", "1 oz absinthe", "3/4 oz simple syrup", "1/2 oz lime juice", "1 tbsp sugar" ],
+        "directions": "Mix sugar and food coloring until it has a thick, runny consistency. Pour onto a plate and dip the rim of a martini glass into it. Add remaining ingredients to an ice-filled cocktail shaker and shake well. Strain into your glass and enjoy!",
+        "image": "./Client/src/Images/The_Phantom.png"
+
      },
      {
-         "name": "Rum Drink 5",
+         "name": "LEMONBERRY SPLASH",
          "liquor": "Rum",
          "style": "On the rocks",
          "flavor": "Sweet",
          "strong": "Strong",
-         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-         "directions": "placeholder directions",
-         "image": "http://imageplaceholder.com"
+         "ingredients": ["2 oz white rum", "3 hulled strawberries", "1 oz lemon juice","1 oz simple syrup", "Strawberry for garnish" ],
+         "directions": "Muddle strawberries in a cocktail shaker. Add rum, juice and simple syrup. Fill with ice and shake well.  Strain mixture into a glass filled with ice and garnish with a strawberry. Enjoy!",
+         "image": "./Client/src/Images/LemonberrySplash.jpg"
       },
       {
-         "name": "Rum Drink 6",
+         "name": "PINA COLADA PUNCH",
          "liquor": "Rum",
          "style": "Cocktail",
          "flavor": "Sweet",
          "strong": "Strong",
-         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-         "directions": "placeholder directions",
-         "image": "http://imageplaceholder.com"
+         "ingredients": ["750ml sauvignon blanc", "1/2 cup coconut rum", "2 cups pineapple juice","1 cup seltzer", "1 cup chopped pineapple", "1/4 cup maraschino cherries" ],
+         "directions": "Combine ingredients in a pitcher and stir. Refrigerate until chilled. Garnish with pineapple and serve!",
+         "image": "./Client/src/Images/PinaPunch.jpg"
       },
       {
-        "name": "Rum Drink 7",
+        "name": "SHAKE THE COCONUT",
         "liquor": "Rum",
         "style": "Neat",
         "flavor": "Dry",
         "strong": "Strong",
-        "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-        "directions": "placeholder directions",
-        "image": "http://imageplaceholder.com"
+        "ingredients": ["1 1/2 oz vanilla vodka", "1 oz coconut rum", "1/2 oz cream of coconut","Splash of pineapple juice" ],
+        "directions": "Add all ingredients to an ice-filled cocktail shaker. Shake well and strain into a chilled glass.s",
+        "image": "./Client/src/Images/ShaketheCoconut.png"
      },
      {
-         "name": "Rum Drink 8",
+         "name": "DARK & STORMY",
          "liquor": "Rum",
          "style": "On the rocks",
          "flavor": "Dry",
          "strong": "Strong",
-         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-         "directions": "placeholder directions",
-         "image": "http://imageplaceholder.com"
+         "ingredients": ["6 oz ginger beer", "1 1/2 oz dark rum", "1 tbsp fresh lime juice", "1 tsp grated ginger"  ],
+         "directions": "Pour ingredients into a glass filled with ice and stir. Garnish with a lime wedge and enjoy!",
+         "image": "./Client/src/Images/DarkAndStormy.png"
       },
       {
-         "name": "Rum Drink 9",
+         "name": "CITRUS BREEZE",
          "liquor": "Rum",
          "style": "Cocktail",
          "flavor": "Dry",
          "strong": "Strong",
-         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-         "directions": "placeholder directions",
-         "image": "http://imageplaceholder.com"
+         "ingredients": ["2 oz coconut rum", "3/4 oz fresh lime juice", "3 oz grapefruit soda","Lime wedge for garnish" ],
+         "directions": "Combine lime juice and rum in a cocktail shaker with ice and shake to blend. Strain into a rocks glass filled with ice and top with grapefruit soda. Garnish with a lime wedge, lean back, and relax!",
+         "image": "./Client/src/Images/CitrusBreeze.png"
       },
       {
-        "name": "Rum Drink 10",
+        "name": "TROPICAL SUNRISE",
         "liquor": "Rum",
         "style": "Neat",
         "flavor": "Spicy",
         "strong": "Moderate",
-        "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-        "directions": "placeholder directions",
-        "image": "http://imageplaceholder.com"
+        "ingredients": ["1 oz light rum", "1 1/2 oz dark rum", "3 oz passion fruit juice", "3 oz orange juice", "1/2 tbsp grenadine", "Orange slice for garnish" ],
+        "directions": "Combine ingredients in a mixing glass and stir. Pour into a glass with ice and garnish with an orange slice.",
+        "image": "./Client/src/Images/TropicalSunrise.jpg"
      },
      {
          "name": "Rum Drink 11",
@@ -105,39 +106,39 @@
          "style": "On the rocks",
          "flavor": "Spicy",
          "strong": "Moderate",
-         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
          "directions": "placeholder directions",
-         "image": "http://imageplaceholder.com"
+         "image": "./Client/src/Images/______________"
       },
       {
-         "name": "Rum Drink 12",
+         "name": "Spiced Rum Punch",
          "liquor": "Rum",
          "style": "Cocktail",
          "flavor": "Spicy",
          "strong": "Moderate",
-         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-         "directions": "placeholder directions",
-         "image": "http://imageplaceholder.com"
+         "ingredients": ["4 cinnamon sticks", "1/2 cup water", "1/2 cup sugar"," 2 cups spiced rum", "1 1/2 cups fresh orange juice", "1/2 cup lemon juice", "1 orange, sliced", "1 lime, sliced" ],
+         "directions": "In a small saucepan, combine cinnamon sticks, water and sugar. Stir and bring to a boil over medium-high heat.  Once boiling, remove from heat and let steep for 20 minutes.  Cool completely before making the punch.  In a large punch bowl or beverage dispenser, stir together spiced rum, spiced syrup, orange juice, lemon juice, sliced orange and sliced lime.  Fill with ice and serve chilled.",
+         "image": "./Client/src/Images/Spiced-Rum-Punch.jpg"
       },
       {
-         "name": "Rum Drink 13",
+         "name": "Classic Daiquiri",
          "liquor": "Rum",
          "style": "Neat",
          "flavor": "Sweet",
          "strong": "Moderate",
-         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-         "directions": "placeholder directions",
-         "image": "http://imageplaceholder.com"
+         "ingredients": ["3 tablespoons light or white rum", "2 tablespoons fresh lime juice", "1 tablespoon simple syrup" ],
+         "directions": "All you have to do is shake it up with some ice to chill it, then pour it into a cocktail glass and serve with a lime wedge.",
+         "image": "./Client/src/Images/Daiquiri-Cocktail-013.jpg"
       },
       {
-          "name": "Rum Drink 14",
+          "name": "Classic Mojito",
           "liquor": "Rum",
           "style": "On the rocks",
           "flavor": "Sweet",
           "strong": "Moderate",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-          "directions": "placeholder directions",
-          "image": "http://imageplaceholder.com"
+          "ingredients": ["6 mint leaves", "1 ounce lime juice", "1 ounce simple syrup","2 ounces white rum", "2 to 4 ounces soda water" ],
+          "directions": "In a cocktail shaker, muddle the mint leaves. (Here’s how to muddle mint)  Add the lime juice, simple syrup, and rum. Fill the cocktail shaker with ice and shake until cold.  Place ice into a glass, and strain in the liquid. Top off the glass with soda water. Garnish with additional mint leaves.",
+          "image": "./Client/src/Images/Mojito-Recipe-051.jpg"
        },
        {
           "name": "Rum Drink 15",
@@ -145,9 +146,9 @@
           "style": "Cocktail",
           "flavor": "Sweet",
           "strong": "Moderate",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
           "directions": "placeholder directions",
-          "image": "http://imageplaceholder.com"
+          "image": "./Client/src/Images/______________"
        },
        {
          "name": "Rum Drink 16",
@@ -155,9 +156,9 @@
          "style": "Neat",
          "flavor": "Dry",
          "strong": "Moderate",
-         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
          "directions": "placeholder directions",
-         "image": "http://imageplaceholder.com"
+         "image": "./Client/src/Images/______________"
       },
       {
           "name": "Rum Drink 17",
@@ -165,9 +166,9 @@
           "style": "On the rocks",
           "flavor": "Dry",
           "strong": "Moderate",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
           "directions": "placeholder directions",
-          "image": "http://imageplaceholder.com"
+          "image": "./Client/src/Images/______________"
        },
        {
           "name": "Rum Drink 18",
@@ -175,9 +176,9 @@
           "style": "Cocktail",
           "flavor": "Dry",
           "strong": "Moderate",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
           "directions": "placeholder directions",
-          "image": "http://imageplaceholder.com"
+          "image": "./Client/src/Images/______________"
        },
        {
         "name": "Rum Drink 19",
@@ -185,9 +186,9 @@
         "style": "Neat",
         "flavor": "Spicy",
         "strong": "Light",
-        "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+        "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
         "directions": "placeholder directions",
-        "image": "http://imageplaceholder.com"
+        "image": "./Client/src/Images/______________"
      },
      {
          "name": "Rum Drink 20",
@@ -195,9 +196,9 @@
          "style": "On the rocks",
          "flavor": "Spicy",
          "strong": "Light",
-         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
          "directions": "placeholder directions",
-         "image": "http://imageplaceholder.com"
+         "image": "./Client/src/Images/______________"
       },
       {
          "name": "Rum Drink 21",
@@ -205,9 +206,9 @@
          "style": "Cocktail",
          "flavor": "Spicy",
          "strong": "Light",
-         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
          "directions": "placeholder directions",
-         "image": "http://imageplaceholder.com"
+         "image": "./Client/src/Images/______________"
       },
       {
          "name": "Rum Drink 22",
@@ -215,9 +216,9 @@
          "style": "Neat",
          "flavor": "Sweet",
          "strong": "Light",
-         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
          "directions": "placeholder directions",
-         "image": "http://imageplaceholder.com"
+         "image": "./Client/src/Images/______________"
       },
       {
           "name": "Rum Drink 23",
@@ -225,9 +226,9 @@
           "style": "On the rocks",
           "flavor": "Sweet",
           "strong": "Light",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
           "directions": "placeholder directions",
-          "image": "http://imageplaceholder.com"
+          "image": "./Client/src/Images/______________"
        },
        {
           "name": "Rum Drink 24",
@@ -235,9 +236,9 @@
           "style": "Cocktail",
           "flavor": "Sweet",
           "strong": "Light",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
           "directions": "placeholder directions",
-          "image": "http://imageplaceholder.com"
+          "image": "./Client/src/Images/______________"
        },
        {
          "name": "Rum Drink 25",
@@ -245,9 +246,9 @@
          "style": "Neat",
          "flavor": "Dry",
          "strong": "Light",
-         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
          "directions": "placeholder directions",
-         "image": "http://imageplaceholder.com"
+         "image": "./Client/src/Images/______________"
       },
       {
           "name": "Rum Drink 26",
@@ -255,9 +256,9 @@
           "style": "On the rocks",
           "flavor": "Dry",
           "strong": "Light",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
           "directions": "placeholder directions",
-          "image": "http://imageplaceholder.com"
+          "image": "./Client/src/Images/______________"
        },
        {
           "name": "Rum Drink 27",
@@ -265,9 +266,9 @@
           "style": "Cocktail",
           "flavor": "Dry",
           "strong": "Light",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
           "directions": "placeholder directions",
-          "image": "http://imageplaceholder.com"
+          "image": "./Client/src/Images/______________"
         },
         {
          "name": "Tequila Drink 1",
@@ -275,9 +276,9 @@
          "style": "Neat",
          "flavor": "Spicy",
          "strong": "Strong",
-         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
          "directions": "placeholder directions",
-         "image": "http://imageplaceholder.com"
+         "image": "./Client/src/Images/______________"
       },
       {
           "name": "Tequila Drink 2",
@@ -285,9 +286,9 @@
           "style": "On the rocks",
           "flavor": "Spicy",
           "strong": "Strong",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
           "directions": "placeholder directions",
-          "image": "http://imageplaceholder.com"
+          "image": "./Client/src/Images/______________"
        },
        {
           "name": "Tequila Drink 3",
@@ -295,9 +296,9 @@
           "style": "Cocktail",
           "flavor": "Spicy",
           "strong": "Strong",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
           "directions": "placeholder directions",
-          "image": "http://imageplaceholder.com"
+          "image": "./Client/src/Images/______________"
        },
        {
           "name": "Tequila Drink 4",
@@ -305,9 +306,9 @@
           "style": "Neat",
           "flavor": "Sweet",
           "strong": "Strong",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
           "directions": "placeholder directions",
-          "image": "http://imageplaceholder.com"
+          "image": "./Client/src/Images/______________"
        },
        {
            "name": "Tequila Drink 5",
@@ -315,9 +316,9 @@
            "style": "On the rocks",
            "flavor": "Sweet",
            "strong": "Strong",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
            "directions": "placeholder directions",
-           "image": "http://imageplaceholder.com"
+           "image": "./Client/src/Images/______________"
         },
         {
            "name": "Tequila Drink 6",
@@ -325,9 +326,9 @@
            "style": "Cocktail",
            "flavor": "Sweet",
            "strong": "Strong",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
            "directions": "placeholder directions",
-           "image": "http://imageplaceholder.com"
+           "image": "./Client/src/Images/______________"
         },
         {
           "name": "Tequila Drink 7",
@@ -335,9 +336,9 @@
           "style": "Neat",
           "flavor": "Dry",
           "strong": "Strong",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
           "directions": "placeholder directions",
-          "image": "http://imageplaceholder.com"
+          "image": "./Client/src/Images/______________"
        },
        {
            "name": "Tequila Drink 8",
@@ -345,9 +346,9 @@
            "style": "On the rocks",
            "flavor": "Dry",
            "strong": "Strong",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
            "directions": "placeholder directions",
-           "image": "http://imageplaceholder.com"
+           "image": "./Client/src/Images/______________"
         },
         {
            "name": "Tequila Drink 9",
@@ -355,9 +356,9 @@
            "style": "Cocktail",
            "flavor": "Dry",
            "strong": "Strong",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
            "directions": "placeholder directions",
-           "image": "http://imageplaceholder.com"
+           "image": "./Client/src/Images/______________"
         },
         {
           "name": "Tequila Drink 10",
@@ -365,9 +366,9 @@
           "style": "Neat",
           "flavor": "Spicy",
           "strong": "Moderate",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
           "directions": "placeholder directions",
-          "image": "http://imageplaceholder.com"
+          "image": "./Client/src/Images/______________"
        },
        {
            "name": "Tequila Drink 11",
@@ -375,9 +376,9 @@
            "style": "On the rocks",
            "flavor": "Spicy",
            "strong": "Moderate",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
            "directions": "placeholder directions",
-           "image": "http://imageplaceholder.com"
+           "image": "./Client/src/Images/______________"
         },
         {
            "name": "Tequila Drink 12",
@@ -385,9 +386,9 @@
            "style": "Cocktail",
            "flavor": "Spicy",
            "strong": "Moderate",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
            "directions": "placeholder directions",
-           "image": "http://imageplaceholder.com"
+           "image": "./Client/src/Images/______________"
         },
         {
            "name": "Tequila Drink 13",
@@ -395,9 +396,9 @@
            "style": "Neat",
            "flavor": "Sweet",
            "strong": "Moderate",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
            "directions": "placeholder directions",
-           "image": "http://imageplaceholder.com"
+           "image": "./Client/src/Images/______________"
         },
         {
             "name": "Tequila Drink 14",
@@ -405,9 +406,9 @@
             "style": "On the rocks",
             "flavor": "Sweet",
             "strong": "Moderate",
-            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
             "directions": "placeholder directions",
-            "image": "http://imageplaceholder.com"
+            "image": "./Client/src/Images/______________"
          },
          {
             "name": "Tequila Drink 15",
@@ -415,9 +416,9 @@
             "style": "Cocktail",
             "flavor": "Sweet",
             "strong": "Moderate",
-            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
             "directions": "placeholder directions",
-            "image": "http://imageplaceholder.com"
+            "image": "./Client/src/Images/______________"
          },
          {
            "name": "Tequila Drink 16",
@@ -425,9 +426,9 @@
            "style": "Neat",
            "flavor": "Dry",
            "strong": "Moderate",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
            "directions": "placeholder directions",
-           "image": "http://imageplaceholder.com"
+           "image": "./Client/src/Images/______________"
         },
         {
             "name": "Tequila Drink 17",
@@ -435,9 +436,9 @@
             "style": "On the rocks",
             "flavor": "Dry",
             "strong": "Moderate",
-            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
             "directions": "placeholder directions",
-            "image": "http://imageplaceholder.com"
+            "image": "./Client/src/Images/______________"
          },
          {
             "name": "Tequila Drink 18",
@@ -445,9 +446,9 @@
             "style": "Cocktail",
             "flavor": "Dry",
             "strong": "Moderate",
-            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
             "directions": "placeholder directions",
-            "image": "http://imageplaceholder.com"
+            "image": "./Client/src/Images/______________"
          },
          {
           "name": "Tequila Drink 19",
@@ -455,9 +456,9 @@
           "style": "Neat",
           "flavor": "Spicy",
           "strong": "Light",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
           "directions": "placeholder directions",
-          "image": "http://imageplaceholder.com"
+          "image": "./Client/src/Images/______________"
        },
        {
            "name": "Tequila Drink 20",
@@ -465,9 +466,9 @@
            "style": "On the rocks",
            "flavor": "Spicy",
            "strong": "Light",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
            "directions": "placeholder directions",
-           "image": "http://imageplaceholder.com"
+           "image": "./Client/src/Images/______________"
         },
         {
            "name": "Tequila Drink 21",
@@ -475,9 +476,9 @@
            "style": "Cocktail",
            "flavor": "Spicy",
            "strong": "Light",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
            "directions": "placeholder directions",
-           "image": "http://imageplaceholder.com"
+           "image": "./Client/src/Images/______________"
         },
         {
            "name": "Tequila Drink 22",
@@ -485,9 +486,9 @@
            "style": "Neat",
            "flavor": "Sweet",
            "strong": "Light",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
            "directions": "placeholder directions",
-           "image": "http://imageplaceholder.com"
+           "image": "./Client/src/Images/______________"
         },
         {
             "name": "Tequila Drink 23",
@@ -495,9 +496,9 @@
             "style": "On the rocks",
             "flavor": "Sweet",
             "strong": "Light",
-            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
             "directions": "placeholder directions",
-            "image": "http://imageplaceholder.com"
+            "image": "./Client/src/Images/______________"
          },
          {
             "name": "Tequila Drink 24",
@@ -505,9 +506,9 @@
             "style": "Cocktail",
             "flavor": "Sweet",
             "strong": "Light",
-            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
             "directions": "placeholder directions",
-            "image": "http://imageplaceholder.com"
+            "image": "./Client/src/Images/______________"
          },
          {
            "name": "Tequila Drink 25",
@@ -515,9 +516,9 @@
            "style": "Neat",
            "flavor": "Dry",
            "strong": "Light",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
            "directions": "placeholder directions",
-           "image": "http://imageplaceholder.com"
+           "image": "./Client/src/Images/______________"
         },
         {
             "name": "Tequila Drink 26",
@@ -525,9 +526,9 @@
             "style": "On the rocks",
             "flavor": "Dry",
             "strong": "Light",
-            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
             "directions": "placeholder directions",
-            "image": "http://imageplaceholder.com"
+            "image": "./Client/src/Images/______________"
          },
          {
             "name": "Tequila Drink 27",
@@ -535,8 +536,8 @@
             "style": "Cocktail",
             "flavor": "Dry",
             "strong": "Light",
-            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
             "directions": "placeholder direction",
-            "image": "http://imageplaceholder.com"
+            "image": "./Client/src/Images/______________"
           }
 ]
