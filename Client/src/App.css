@@ -47,6 +47,60 @@ input[type=submit]:hover {
   margin-top: 6px;
 }
 
+/* neon hero */
+.cyber {
+  text-align: center;
+  font-size: 7em;
+  margin-bottom: 0;
+  margin-top: 0;
+  line-height: 1;
+  text-decoration: none;
+  color: rgb(253, 253, 253);
+}
+
+.neon-container {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+  background-color: black;
+}
+
+.cyber {
+  font-family: "Iceland";
+  animation: cyber 1.5s ease-in-out infinite alternate;
+}
+
+@keyframes cyber {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #228dff,
+      0 0 70px #228dff, 0 0 80px #228dff, 0 0 100px #228dff, 0 0 150px #228dff;
+  }
+  to {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #228dff,
+      0 0 35px #228dff, 0 0 40px #228dff, 0 0 50px #228dff, 0 0 75px #228dff;
+  }
+}
+
+.cyber2 {
+  color: white;
+  font-family: Monoton;
+  animation: cyber2 1.5s ease-in-out infinite alternate;
+}
+
+@keyframes cyber2 {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #ff1177,
+      0 0 70px #ff1177, 0 0 80px #ff1177, 0 0 100px #ff1177, 0 0 150px #ff1177;
+  }
+  to {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #ff1177,
+      0 0 35px #ff1177, 0 0 40px #ff1177, 0 0 50px #ff1177, 0 0 75px #ff1177;
+  }
+}
+
+
+
 /* Clear floats after the columns */
 .row:after {
   content: "";
