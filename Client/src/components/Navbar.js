@@ -14,10 +14,10 @@ class Navbar extends Component {
   render() {
     return (
       <div>
-          <nav className="grey darken-3">
+          <nav className="grey darken-4">
     <div className="nav-wrapper">
     <a href="#" data-target="slide-out" class="sidenav-trigger show-on-large"><i class="material-icons">menu</i></a>
-      <a href="#" className="brand-logo center">Logo</a>
+      <a href="#" className="brand-logo center"></a>
       <ul id="nav-mobile" className="right hide-on-med-and-down">
         <li><a className="modal-trigger" href="collapsible.html" data-target="modal1">Sign Up</a></li>
       </ul>
