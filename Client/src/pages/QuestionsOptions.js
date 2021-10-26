@@ -1,76 +1,69 @@
 import React, { useState, useEffect } from "react";
+import { useQuery, useMutation } from "@apollo/client";
 
-const [currentQuestion, setCurrentQuestion] = useState({});
-const [questions, setQuestions] = useState([]);
-const [questionOptions, setQuestionOptions] = useState([]);
-const [chooseOptions, setChosenOptions] = useState([]);
+import { Button } from "@mui/material";
+import { QUERY_QUESTIONS } from "../utils/queries";
+import { GET_OPTIONS } from "../utils/mutations";
 
 const QuestionsOptions = () => {
+  const [currentQuestion, setCurrentQuestion] = useState({});
+  const [questions, setQuestions] = useState([]);
+  const [questionOptions, setQuestionOptions] = useState([]);
+  const [chooseOptions, setChosenOptions] = useState([]);
+  const [results, setResults] = useState([]);
+
+  const { loading, data: dataQuestions = {} } = useQuery(QUERY_QUESTIONS);
+
+  const [getOptions, { data: dataOptions = {} }] = useMutation(GET_OPTIONS);
+
   useEffect(() => {
-    //call API questions
-    const questionsRes = axios.get("/questions");
+    if (dataQuestions.questions) {
+      setQuestions(dataQuestions.questions);
+      setCurrentQuestion(dataQuestions.questions[0]);
 
-    /*
-
-	questions = [
-		{
-			question: "Type of drink",
-			key: "liquor",
-			order: 1
-		},
-		{
-			question: "Style of drink",
-			key: "style",
-			order: 2
-		},
-	]
-
-	*/
-
-    setQuestions(questionsRes);
-    setCurrentQuestion(questionsRes[0]);
-
+      getOptions({
+        variables: {
+          selectedOptions: [],
+          nextKey: dataQuestions.questions[0].key,
+        },
+      });
+    }
     // call API options
-    const { data, options } = await axios.post("/options", {
-      options: [],
-      nextKey: questions[0].key, // "liquor"
-    });
+  }, [dataQuestions.questions]);
 
-    setQuestionOptions(options);
-  }, []);
+  useEffect(() => {
+    if (dataOptions.getOptions) {
+      const { data, options } = dataOptions.getOptions;
+      console.log(data, options);
+      setResults(data);
+      setQuestionOptions(options);
+    }
+  }, [dataOptions]);
 
   const onClickOption = (optionChosen) => {
-    /*
-
-	currentQuestion =
-	{
-		question: "Type of drink",
-		key: "liquor",
-		order: 1
-	}
-
-	*/
     const currentQuestionIndex = questions.findIndex(
       (q) => currentQuestion.question === q.question
     );
     const nextQuestion = questions[currentQuestionIndex + 1];
+
+    getOptions({
+      variables: {
+        selectedOptions: [
+          ...chooseOptions,
+          { key: currentQuestion.key, value: optionChosen },
+        ],
+        nextKey: nextQuestion?.key,
+      },
+    });
 
     setChosenOptions((prev) => [
       ...prev,
       { key: currentQuestion.key, value: optionChosen },
     ]);
 
-    // call API options
-    const { data, options } = await axios.post("/options", {
-      options: chooseOptions, // [{key: "liquor", value: optionChoosen}] // 1
-      nextKey: nextQuestion.key, // "style"
-    });
-
-    setQuestionOptions(options);
-
-    setCurrentQuestion(nextQuestion);
+    setCurrentQuestion(nextQuestion || {});
   };
-
+  console.log({ results });
   return (
     <div>
       <h1>{currentQuestion.question}</h1>
