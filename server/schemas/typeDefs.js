@@ -13,8 +13,26 @@ const typeDefs = gql`
     directions: String
     image: String
   }
+  type Questions {
+    _id: ID
+    question: String
+    key: String
+    order: Int
+  }
+  input SelectedOptions {
+    key: String
+    value: String
+  }
+  type Options {
+    data: [Drinks]
+    options: [String]
+  }
   type Query {
-    Drinks: [Drinks]!
+    drinks: [Drinks]!
+    questions: [Questions]
+  }
+  type Mutation {
+    getOptions(selectedOptions: [SelectedOptions]!, nextKey: String): Options
   }
 `;
 
