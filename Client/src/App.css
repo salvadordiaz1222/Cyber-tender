@@ -110,6 +110,26 @@ input[type=submit]:hover {
 }
 
 
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+
+::-webkit-scrollbar-track {
+  background: #080808;
+}
+
+
+::-webkit-scrollbar-thumb {
+  background: rgb(37, 37, 37);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(26, 26, 26);
+}
+
+
 /* Clear floats after the columns */
 .row:after {
   content: "";
