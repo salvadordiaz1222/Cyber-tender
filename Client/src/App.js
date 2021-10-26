@@ -1,35 +1,53 @@
 import Drink from "./components/Drink";
-import Hero from "./components/Hero"
+import Hero from "./components/Hero";
 import Welcome from "./components/Welcome";
 import Navbar from "./components/Navbar";
 import Questions from "./components/Questions";
 import Footer from "./components/Footer";
-import { Route, Switch, BrowserRouter } from 'react-router-dom';
-import './App.css';
+import { Route, Switch, BrowserRouter } from "react-router-dom";
+import QuestionsOptions from "./pages/QuestionsOptions";
+import "./App.css";
 
+import {
+  ApolloClient,
+  InMemoryCache,
+  ApolloProvider,
+  createHttpLink,
+} from "@apollo/client";
+
+// Construct our main GraphQL API endpoint
+const httpLink = createHttpLink({
+  uri: "/graphql",
+});
+
+const client = new ApolloClient({
+  // Set up our client to execute the `authLink` middleware prior to making the request to our GraphQL API
+  link: httpLink,
+  cache: new InMemoryCache(),
+});
 
 function App() {
   return (
-    <BrowserRouter>
-    <main className=""> 
-
-      <Navbar />
-      <Hero />
-      <Switch>
-        <Route exact path="/">
-          <Welcome />
-        </Route>
-        <Route exact path="/Questions">
-          <Questions />
-        </Route>
-        <Route exact path="/Drink">
-          <Drink />
-        </Route>
-        </Switch>
-    <Footer />
-
-    </main>
-  </BrowserRouter>
+    <ApolloProvider client={client}>
+      <BrowserRouter>
+        <main className="">
+          <Navbar />
+          <Hero />
+          <Switch>
+            <Route exact path="/">
+              <Welcome />
+            </Route>
+            <Route exact path="/Questions">
+              <QuestionsOptions />
+            </Route>
+            <Route exact path="/Drink">
+              <Drink />
+            </Route>
+          </Switch>
+          <Footer />
+        </main>
+      </BrowserRouter>
+    </ApolloProvider>
   );
 }
 
