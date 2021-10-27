@@ -18,9 +18,9 @@ export const QUERY_DRINKS = gql`
 export const QUERY_QUESTIONS = gql`
   query Query {
     questions {
+      order
       question
       key
-      order
     }
   }
 `;
