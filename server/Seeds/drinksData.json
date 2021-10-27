@@ -141,14 +141,14 @@
           "image": "./Client/src/Images/Mojito-Recipe-051.jpg"
        },
        {
-          "name": "Rum Drink 15",
+          "name": "BLOODY RUM PUNCH",
           "liquor": "Rum",
           "style": "Cocktail",
           "flavor": "Sweet",
           "strong": "Moderate",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-          "directions": "placeholder directions",
-          "image": "./Client/src/Images/______________"
+          "ingredients": ["1 bottle of rum", "1/2 bottle of red wine", "6 oz orange liqueur","6 oz lime juice", "Blood orange slices for garnish" ],
+          "directions": "Pour all ingredients into a punch bowl, stir well and chill for at least two hours before serving. Be sure to have the blood orange slices ready for garnish!",
+          "image": "./Client/src/Images/BloodyRumPunch.png"
        },
        {
          "name": "Rum Drink 16",
@@ -271,154 +271,154 @@
           "image": "./Client/src/Images/______________"
         },
         {
-         "name": "Tequila Drink 1",
+         "name": "CRANBERRY SPLASH",
          "liquor": "Tequila",
          "style": "Neat",
          "flavor": "Spicy",
          "strong": "Strong",
-         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-         "directions": "placeholder directions",
-         "image": "./Client/src/Images/______________"
+         "ingredients": ["1 1/2 oz tequila añejo", "1/2 oz Paula’s Texas Lemon", "3 oz cranberry juice","1/4 tsp lime juice", "Splash of agave nectar" ],
+         "directions": "Combine ingredients in a cocktail shaker filled with ice and shake well. Strain into a glass and add a splash of agave nectar.",
+         "image": "./Client/src/Images/Cranberry_Splash"
       },
       {
-          "name": "Tequila Drink 2",
+          "name": "CAMPFIRE MARGARITA",
           "liquor": "Tequila",
           "style": "On the rocks",
           "flavor": "Spicy",
           "strong": "Strong",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-          "directions": "placeholder directions",
-          "image": "./Client/src/Images/______________"
+          "ingredients": ["2 oz Código Reposado Tequila", "1/2 oz Spec’s Agave Nectar", "1 1/4 oz Langers Ruby Red Grapefruit","1/4 oz Lime Juice", "2 Rosemary sprigs" ],
+          "directions": "Fill a glass with ice and add the rosemary and agave nectar to a cocktail shaker.  Muddle the rosemary then add the tequila, grapefruit and lime juices, and ice to the shaker.  Shake and strain into your glass. Garnish with a sprig and enjoy!",
+          "image": "./Client/src/Images/CAMPFIRE_MARGARITA.jpg"
        },
        {
-          "name": "Tequila Drink 3",
+          "name": "EL DIABLO",
           "liquor": "Tequila",
           "style": "Cocktail",
           "flavor": "Spicy",
           "strong": "Strong",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-          "directions": "placeholder directions",
-          "image": "./Client/src/Images/______________"
+          "ingredients": ["2 oz reposado tequila", "3 oz ginger beer", "1 oz crème de cassis","1 lime wedge" ],
+          "directions": "Combine ice and tequila, top with ginger beer. Slowly pour in crème de cassis. Squeeze lime wedge over drink, drop, and serve.",
+          "image": "./Client/src/Images/ElDiablo.png"
        },
        {
-          "name": "Tequila Drink 4",
+          "name": "TRIPLE SUNRISE",
           "liquor": "Tequila",
           "style": "Neat",
           "flavor": "Sweet",
           "strong": "Strong",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-          "directions": "placeholder directions",
-          "image": "./Client/src/Images/______________"
+          "ingredients": ["1 oz vodka", "1 oz tequila", "1/2 oz orange juice","Orange slice for garnish", "placeholder ingredient2", "placeholder ingredient3" ],
+          "directions": "Add all ingredients into a cocktail shaker and top with crushed ice. Let stand for five seconds, then shake vigorously for five seconds until fully blended. Strain into a martini glass and garnish with an orange slice. Sunshine in a glass!",
+          "image": "./Client/src/Images/TripleSunrise.png"
        },
        {
-           "name": "Tequila Drink 5",
+           "name": "GRAPEFRUIT MARGARITA",
            "liquor": "Tequila",
            "style": "On the rocks",
            "flavor": "Sweet",
            "strong": "Strong",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-           "directions": "placeholder directions",
-           "image": "./Client/src/Images/______________"
+           "ingredients": ["1 oz silver tequila", "1/2 oz orange liqueur", "3/4 cup grapefruit juice","Grapefruit slice for garnish" ],
+           "directions": "Fill a glass with ice, then add tequila and orange liqueur. Stir well and top with grapefruit juice. Garnish with a grapefruit slice.",
+           "image": "./Client/src/Images/SaltyGrapefruitMargarita.png"
         },
         {
-           "name": "Tequila Drink 6",
+           "name": "YELLOW ROSE OF TEXAS",
            "liquor": "Tequila",
            "style": "Cocktail",
            "flavor": "Sweet",
            "strong": "Strong",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-           "directions": "placeholder directions",
-           "image": "./Client/src/Images/______________"
+           "ingredients": ["1 oz Southern Comfort", "1/2 oz tequila", "2 oz orange juice","Splash of grenadine", "Orange wedge for garnish" ],
+           "directions": "Add all ingredients to a cocktail shaker filled halfway with ice and shake well. Strain into an ice-filled glass and garnish with an orange wedge!",
+           "image": "./Client/src/Images/Yellow_Rose_of_Texas.png"
         },
         {
-          "name": "Tequila Drink 7",
+          "name": "APHRODITE",
           "liquor": "Tequila",
           "style": "Neat",
           "flavor": "Dry",
           "strong": "Strong",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+          "ingredients": ["1 1/2 oz silver tequila", "1/2 oz orange liqueur", "1/4 oz cherry liqueur","2 oz peach juice", "Lemon twist for garnish" ],
           "directions": "placeholder directions",
-          "image": "./Client/src/Images/______________"
+          "image": "./Client/src/Images/Aphrodite.png"
        },
        {
-           "name": "Tequila Drink 8",
+           "name": "BEERGARITA",
            "liquor": "Tequila",
            "style": "On the rocks",
            "flavor": "Dry",
            "strong": "Strong",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-           "directions": "placeholder directions",
-           "image": "./Client/src/Images/______________"
+           "ingredients": ["1 oz añejo tequila", "12 oz beer", "1 oz orange liqueur","1 oz lime juice", "1 tbsp sugar", "Lime wedge for garnish" ],
+           "directions": "Pour the beer into your glass, then stir in tequila, liqueur, lime juice and sugar. Fill with ice and garnish with a lime wedge.",
+           "image": "./Client/src/Images/Beergarita.png"
         },
         {
-           "name": "Tequila Drink 9",
+           "name": "RED LANTERN",
            "liquor": "Tequila",
            "style": "Cocktail",
            "flavor": "Dry",
            "strong": "Strong",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-           "directions": "placeholder directions",
-           "image": "./Client/src/Images/______________"
+           "ingredients": ["1 1/2 oz reposado tequila", "1 oz cranberry juice", "1 oz lime juice","1/2 oz simple syrup", "1 splash ginger ale", "Lime wedge for garnish" ],
+           "directions": "Place all ingredients except for the ginger ale in a cocktail shaker filled with ice and shake until blended. Strain into a highball or rocks glass. Top with ginger ale, garnish with the lime wedge, sip and relax!",
+           "image": "./Client/src/Images/RedLantern.png"
         },
         {
-          "name": "Tequila Drink 10",
+          "name": "MEZCALITA",
           "liquor": "Tequila",
           "style": "Neat",
           "flavor": "Spicy",
           "strong": "Moderate",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-          "directions": "placeholder directions",
-          "image": "./Client/src/Images/______________"
+          "ingredients": ["1 1/2 oz. Mezcal Unión Uno", "1 oz. Cointreau", "Angostura Orange Bitters","1 oz. Lime Juice", "2 oz. Orange Juice", "Chili powder & salt" ],
+          "directions": "Fill a cocktail shaker with ice. Add the mezcal, lime juice, orange juice, Cointreau, and orange bitters. Shake well and pour into a glass rimmed with chili powder and salt. Garnish with a lime wedge and enjoy!",
+          "image": "./Client/src/Images/Mezcalita.jpg"
        },
        {
-           "name": "Tequila Drink 11",
+           "name": "TEQUILA DERBY",
            "liquor": "Tequila",
            "style": "On the rocks",
            "flavor": "Spicy",
            "strong": "Moderate",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-           "directions": "placeholder directions",
-           "image": "./Client/src/Images/______________"
+           "ingredients": ["2 barspoons superfine sugar", "1/2 oz water", "5-6 mint leaves","2 1/2 – 3 oz añejo tequila", "3-4 mint sprigs" ],
+           "directions": "Dissolve the sugar in the water in the bottom of a tall glass. Add the mint leaves and muddle. Pack the glass with crushed ice, then pour the tequila over the ice. Stir, then add more crushed ice. Garnish with mint and toast to classics with a twist!",
+           "image": "./Client/src/Images/TequilaDerby.png"
         },
         {
-           "name": "Tequila Drink 12",
+           "name": "POISON APPLE",
            "liquor": "Tequila",
            "style": "Cocktail",
            "flavor": "Spicy",
            "strong": "Moderate",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-           "directions": "placeholder directions",
-           "image": "./Client/src/Images/______________"
+           "ingredients": ["2 oz silver tequila", "2 oz apple cider", "1 oz pomegranate juice","1 tsp honey" ],
+           "directions": "Poke holes into apple slice and place in martini glass. Combine remaining ingredients in an ice-filled cocktail shaker and shake well. Strain over the apple into the glass.",
+           "image": "./Client/src/Images/Tequila_Poison_Apple.jpg"
         },
         {
-           "name": "Tequila Drink 13",
+           "name": "KIWI COOLER",
            "liquor": "Tequila",
            "style": "Neat",
            "flavor": "Sweet",
            "strong": "Moderate",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-           "directions": "placeholder directions",
-           "image": "./Client/src/Images/______________"
+           "ingredients": ["1 1/2 oz silver tequila", "10 mint leaves", "1 kiwi, peeled & quartered","1 tbsp sugar", "1/2 in. vanilla bean, split", "1 oz club soda" ],
+           "directions": "Muddle mint, kiwi, sugar and vanilla in a cocktail shaker. Add ice and tequila and shake well. Pour into a glass, top with club soda and stir.",
+           "image": "./Client/src/Images/kiwi_cooler.png"
         },
         {
-            "name": "Tequila Drink 14",
+            "name": "CHERRY RITA",
             "liquor": "Tequila",
             "style": "On the rocks",
             "flavor": "Sweet",
             "strong": "Moderate",
-            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-            "directions": "placeholder directions",
-            "image": "./Client/src/Images/______________"
+            "ingredients": ["1/4 cup tequila", "2 tbsp maraschino cherry liqueur", "2 tbsp lime juice","2 tbsp agave nectar", "1 cup bing cherries, pitted & divided", "Sugar, to sprinkle" ],
+            "directions": "Add 1/4 cup cherries to bowl, sprinkle with sugar and muddle  Combine all ingredients in an ice-filled cocktail shaker and shake well.",
+            "image": "./Client/src/Images/Cherry_Rita.jpg"
          },
          {
-            "name": "Tequila Drink 15",
+            "name": "CANTALOUPE CRUSH",
             "liquor": "Tequila",
             "style": "Cocktail",
             "flavor": "Sweet",
             "strong": "Moderate",
-            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-            "directions": "placeholder directions",
-            "image": "./Client/src/Images/______________"
+            "ingredients": ["2 oz tequila", "1 1/2 cup cantaloupe cubes", "1 1/2 oz lime juice","1/2 oz orange liqueur", "Mint sprigs for garnish" ],
+            "directions": "Blend cantaloupe, lime juice, orange liqueur and tequila in a blender until smooth. Pour into your glass and garnish with a mint sprig.",
+            "image": "./Client/src/Images/CantaloupeCrush.png"
          },
          {
            "name": "Tequila Drink 16",
@@ -431,74 +431,74 @@
            "image": "./Client/src/Images/______________"
         },
         {
-            "name": "Tequila Drink 17",
+            "name": "LIMELIGHT",
             "liquor": "Tequila",
             "style": "On the rocks",
             "flavor": "Dry",
             "strong": "Moderate",
-            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-            "directions": "placeholder directions",
-            "image": "./Client/src/Images/______________"
+            "ingredients": ["12 oz lager", "2 oz tequila", "3 oz frozen limeade","Lime wedge for garnish", "Salt to rim the glass" ],
+            "directions": "Rub a lime wedge around the rim of glass and dip rim in salt. Fill with ice,and add ingredients. Stir well and garnish with a lime wedge.",
+            "image": "./Client/src/Images/Limebacker.png"
          },
          {
-            "name": "Tequila Drink 18",
+            "name": "LEMON BASIL REFRESHER",
             "liquor": "Tequila",
             "style": "Cocktail",
             "flavor": "Dry",
             "strong": "Moderate",
-            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-            "directions": "placeholder directions",
-            "image": "./Client/src/Images/______________"
+            "ingredients": ["1 oz silver tequila", "1 oz orange liqueur", "1 oz club soda","1/2 lemon", "6 basil leaves", "Splash of agave nectar3" ],
+            "directions": "Muddle basil, lemon and a splash of agave nectar. Add ice, tequila and club soda and stir. Top with orange liqueur. Garnish with a lemon wedge and basil leaf.",
+            "image": "./Client/src/Images/LemonBasilRefresher.png"
          },
          {
-          "name": "Tequila Drink 19",
+          "name": "CINCO DE MAYO SPICY PINEAPPLE MARGARITA",
           "liquor": "Tequila",
           "style": "Neat",
           "flavor": "Spicy",
           "strong": "Light",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-          "directions": "placeholder directions",
-          "image": "./Client/src/Images/______________"
+          "ingredients": ["1 ½ oz Roca Patron Silver ", "1 oz Triple Sec", "4 oz pineapple juice", "½ oz lime juice","¼ oz agave syrup", "Lime and salt for rimming glass", "Fresh pineapple" ],
+          "directions": "Fill a shaker with ice. Add tequila, triple sec, pineapple juice, lime juice, and agave syrup. Shake and strain over ice. Top with jalapeno slices and garnish with pineapple wedge.s",
+          "image": "./Client/src/Images/CincodeMayoPatron.jpg"
        },
        {
-           "name": "Tequila Drink 20",
+           "name": "BIG BATCH JALAPALOMA",
            "liquor": "Tequila",
            "style": "On the rocks",
            "flavor": "Spicy",
            "strong": "Light",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-           "directions": "placeholder directions",
-           "image": "./Client/src/Images/______________"
+           "ingredients": ["2 2⁄3 cups Teremana Tequila", "2 2⁄3 cups Grapefruit Juice", "Fever Tree Club Soda","1 cup lime juice", "1 cup water", "5 tbsp agave nectar" ],
+           "directions": "Pour all ingredients except club soda into a pitcher and stir. Chill for 1 hour. Rim glasses with lime and salt. Pour over ice, top with club soda. Garnish with lime and jalapeño. Enjoy!",
+           "image": "./Client/src/Images/jalaPaloma-1.jpg"
         },
         {
-           "name": "Tequila Drink 21",
+           "name": "EASTER SMOKING ROSE PALOMA",
            "liquor": "Tequila",
            "style": "Cocktail",
            "flavor": "Spicy",
            "strong": "Light",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-           "directions": "placeholder directions",
-           "image": "./Client/src/Images/______________"
+           "ingredients": ["2 oz Desert Door Sotol", "5 oz Fever Tree Sparkling Grapefruit", "3/4 oz Lime Juice","1/2 oz Rose Simple Syrup" ],
+           "directions": "Fill a cocktail shaker with ice and add the Sotol, lime juice and rose simple syrup. Shake and strain into the glass. Top with the grapefruit soda and stir. Garnish with grapefruit slice.",
+           "image": "./Client/src/Images/EasterDesertDoor.jpg"
         },
         {
-           "name": "Tequila Drink 22",
+           "name": "PALOMA RITA",
            "liquor": "Tequila",
            "style": "Neat",
            "flavor": "Sweet",
            "strong": "Light",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-           "directions": "placeholder directions",
-           "image": "./Client/src/Images/______________"
+           "ingredients": ["1 cup tequila", "1 cup grapefruit juice", "1/4 cup lime juice","2 tsp superfine sugar", "Pinch of salt", "1/4 cup grapefruit soda" ],
+           "directions": "Combine tequila, juices, sugar and salt in a cocktail shaker and shake well.  Strain into a glass and top with grapefruit soda.",
+           "image": "./Client/src/Images/Paloma_Rita.jpg"
         },
         {
-            "name": "Tequila Drink 23",
+            "name": "HONEYDEW MARGARITA",
             "liquor": "Tequila",
             "style": "On the rocks",
             "flavor": "Sweet",
             "strong": "Light",
-            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-            "directions": "placeholder directions",
-            "image": "./Client/src/Images/______________"
+            "ingredients": ["1 oz honeydew puree", "1 1/2 oz tequila", "1 oz triple sec","3/4 oz fresh lime juice", "1/2 oz simple syrup", "placeholder ingredient3" ],
+            "directions": "Combine ingredients in a blender with ice and puree until smooth. Pour into a chilled glass and enjoy!",
+            "image": "./Client/src/Images/HoneydewMarg.jpg"
          },
          {
             "name": "Tequila Drink 24",
