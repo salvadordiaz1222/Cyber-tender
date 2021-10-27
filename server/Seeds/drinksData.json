@@ -101,14 +101,14 @@
         "image": "./Client/src/Images/TropicalSunrise.jpg"
      },
      {
-         "name": "Rum Drink 11",
+         "name": "STRAWBERRY SIPPER",
          "liquor": "Rum",
          "style": "On the rocks",
          "flavor": "Spicy",
          "strong": "Moderate",
-         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-         "directions": "placeholder directions",
-         "image": "./Client/src/Images/______________"
+         "ingredients": ["2 oz coconut vodka", "2 oz strawberry daiquiri mix", "Splash of spiced rum","Strawberry slice for garnish" ],
+         "directions": "Combine ingredients in a blender filled with ice and puree until ice is thoroughly crushed. Pour into a glass and garnish with a strawberry slice.",
+         "image": "./Client/src/Images/strawberrySipper.png"
       },
       {
          "name": "Spiced Rum Punch",
@@ -151,124 +151,124 @@
           "image": "./Client/src/Images/BloodyRumPunch.png"
        },
        {
-         "name": "Rum Drink 16",
+         "name": "SAFE HARBOR",
          "liquor": "Rum",
          "style": "Neat",
          "flavor": "Dry",
          "strong": "Moderate",
-         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-         "directions": "placeholder directions",
-         "image": "./Client/src/Images/______________"
+         "ingredients": ["2 oz Kracken Rum", "½ oz lime juice", "5 oz Bundaberg Ginger Beer","Lime wedge and mint for garnish" ],
+         "directions": "Add rum and lime juice to a tall glass filled with ice. Top with the ginger beer. Garnish with a lime wedge and mint leaves.",
+         "image": "./Client/src/Images/SAFE_HARBOR.jpg"
       },
       {
-          "name": "Rum Drink 17",
+          "name": "SPIDER CIDER",
           "liquor": "Rum",
           "style": "On the rocks",
           "flavor": "Dry",
           "strong": "Moderate",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-          "directions": "placeholder directions",
-          "image": "./Client/src/Images/______________"
+          "ingredients": ["1 ½ oz Bumbu Rum", "6 oz spiced apple cider", "A few dashes of cherry bitters" ],
+          "directions": "Dip the rim of your glass in honey and dip the glass into sprinkles. Pour rum, apple cider and cherry extract into a mixing glass. Stir and pour over ice-filled glass.",
+          "image": "./Client/src/Images/spiderCider.png"
        },
        {
-          "name": "Rum Drink 18",
+          "name": "MANGO SUNRISE PIÑA COLADA",
           "liquor": "Rum",
           "style": "Cocktail",
           "flavor": "Dry",
           "strong": "Moderate",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-          "directions": "placeholder directions",
-          "image": "./Client/src/Images/______________"
+          "ingredients": ["2 oz Koloa Coconut Rum", "2 oz mango juice", "2 oz pineapple juice","1 tbsp coconut cream", "1 tbsp Rose’s Grenadine", "Pineapple for garnish" ],
+          "directions": "In a cocktail shaker with ice, add the rum, mango and pineapple juices. Shake well to combine and chill. Pour over ice into a cocktail glass. Top with coconut cream, grenadine and fresh pineapple for garnish. Enjoy!",
+          "image": "./Client/src/Images/KoloaPinaColada.jpg"
        },
        {
-        "name": "Rum Drink 19",
+        "name": "JAMAICAN SUNSET",
         "liquor": "Rum",
         "style": "Neat",
         "flavor": "Spicy",
         "strong": "Light",
-        "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-        "directions": "placeholder directions",
-        "image": "./Client/src/Images/______________"
+        "ingredients": ["1 1/2 oz rum", "1/2 oz orange liqueur", "3/4 oz simple syrup","2 oz mango puree", "Splash of lime juice" ],
+        "directions": "Combine ingredients in a cocktail shaker. Shake well and pour into a martini glass.",
+        "image": "./Client/src/Images/JamaicanSunset.png"
      },
      {
-         "name": "Rum Drink 20",
+         "name": "TEENY COLADA",
          "liquor": "Rum",
          "style": "On the rocks",
          "flavor": "Spicy",
          "strong": "Light",
-         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-         "directions": "placeholder directions",
-         "image": "./Client/src/Images/______________"
+         "ingredients": ["2 oz coconut rum1", "5 oz coconut water", "2 oz pineapple juice" ],
+         "directions": "Combine all ingredients in a cocktail shaker with ice and shake well. Strain into a glass with ice and garnish with an umbrella!",
+         "image": "./Client/src/Images/TeenyColada.png"
       },
       {
-         "name": "Rum Drink 21",
+         "name": "COCONUT PEAR DELIGHT",
          "liquor": "Rum",
          "style": "Cocktail",
          "flavor": "Spicy",
          "strong": "Light",
-         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-         "directions": "placeholder directions",
-         "image": "./Client/src/Images/______________"
+         "ingredients": ["2 oz white rum", "1/2 oz coconut rum", "3 oz pear nectar","1 oz cream of coconut", "1 tbsp lime juice", "Splash of club soda" ],
+         "directions": "Combine rums, pear nectar,cream of coconut and and lime juice in an ice-filled cocktail shaker. Shake well and strain into a glass filled with ice. Add a splash of club soda and garnish with a lime wedge.",
+         "image": "./Client/src/Images/CoconutPearDelight.png"
       },
       {
-         "name": "Rum Drink 22",
+         "name": "HOT BUTTERED RUM",
          "liquor": "Rum",
          "style": "Neat",
          "flavor": "Sweet",
          "strong": "Light",
-         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-         "directions": "placeholder directions",
-         "image": "./Client/src/Images/______________"
+         "ingredients": ["1 1/2 oz gold rum", "1 tsp light brown sugar", "1/4 tsp minced lemon rind","3 pinches of cinnamon", "Pinch of ground cloves", "Pinch of nutmeg" ],
+         "directions": "In a warm glass mug, add brown sugar, lemon rind, cinnamon, cloves and nutmeg. Pour in rum and fill mug with boiling water. Drop in the butter and serve.",
+         "image": "./Client/src/Images/HotSpicedButteredRum.png"
       },
       {
-          "name": "Rum Drink 23",
+          "name": "SPARKS FLY",
           "liquor": "Rum",
           "style": "On the rocks",
           "flavor": "Sweet",
           "strong": "Light",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-          "directions": "placeholder directions",
-          "image": "./Client/src/Images/______________"
+          "ingredients": ["750ml sparkling rosé", "6 oz white rum", "1 oz simple syrup","5 oz pomegranate juice", "1/2 lemon, thinly sliced", "Pomegranate seeds", "Mint leaves" ],
+          "directions": "Combine all ingredients in a punch bowl. Slowly stir in a cup of ice and serve.",
+          "image": "./Client/src/Images/SparksFly.png"
        },
        {
-          "name": "Rum Drink 24",
+          "name": "CRAZY COCONUT",
           "liquor": "Rum",
           "style": "Cocktail",
           "flavor": "Sweet",
           "strong": "Light",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-          "directions": "placeholder directions",
-          "image": "./Client/src/Images/______________"
+          "ingredients": ["1 1/2 oz white rum", "1 1/2 oz coconut water", "1 1/2 oz pineapple juice","3 dashes bitters", "2 lime wedges", "Lime wheel for garnish" ],
+          "directions": "Add all ingredients to a glass filled with ice. Squeeze lime wedges into glass. Stir well and garnish with a lime wheel",
+          "image": "./Client/src/Images/CrazyCoconut.png"
        },
        {
-         "name": "Rum Drink 25",
+         "name": "YES TO ESPRESSO",
          "liquor": "Rum",
          "style": "Neat",
          "flavor": "Dry",
          "strong": "Light",
-         "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-         "directions": "placeholder directions",
-         "image": "./Client/src/Images/______________"
+         "ingredients": ["2 oz vanilla rum", "1 1/2 oz espresso, chilled", "1 3/4 oz coffee liqueur" ],
+         "directions": "Pour all ingredients into an ice-filled cocktail shaker. Shake well and strain into a chilled martini glass.",
+         "image": "./Client/src/Images/yestoespresso.png"
       },
       {
-          "name": "Rum Drink 26",
+          "name": "POQUITO MOJITO",
           "liquor": "Rum",
           "style": "On the rocks",
           "flavor": "Dry",
           "strong": "Light",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-          "directions": "placeholder directions",
-          "image": "./Client/src/Images/______________"
+          "ingredients": ["6 oz white rum", "4 limes, cut into wedges", "1/2 cup mint sprigs", "1/4 cup sugar", "2 tsp lime zest", "16 oz lime-flavored sparkling water" ],
+          "directions": "Add lime wedges, mint sprigs, sugar and lime zest to a pitcher and muddle with a wooden spoon. Stir in sparkling water and rum and divide among 4 glasses.",
+          "image": "./Client/src/Images/PoquitoMojito.png"
        },
        {
-          "name": "Rum Drink 27",
+          "name": "MELLOW MARY",
           "liquor": "Rum",
           "style": "Cocktail",
           "flavor": "Dry",
           "strong": "Light",
-          "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-          "directions": "placeholder directions",
-          "image": "./Client/src/Images/______________"
+          "ingredients": ["1/2 cup dark rum", "1/4 cup sugar", "1/4 cup water","2-3 tbsp lemon juice", "1 rosemary sprig", "Splash of club soda" ],
+          "directions": "In a small saucepan over medium heat, combine sugar, water and rosemary to make syrup. Boil until sugar dissolves. Turn off heat and steep for 15 minutes. Puree syrup, lemon juice, rum and watermelon in a blender. Pour into a glass and top with club soda.",
+          "image": "./Client/src/Images/MellowMary.png"
         },
         {
          "name": "CRANBERRY SPLASH",
@@ -421,14 +421,14 @@
             "image": "./Client/src/Images/CantaloupeCrush.png"
          },
          {
-           "name": "Tequila Drink 16",
+           "name": "WATERMELON RITA",
            "liquor": "Tequila",
            "style": "Neat",
            "flavor": "Dry",
            "strong": "Moderate",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-           "directions": "placeholder directions",
-           "image": "./Client/src/Images/______________"
+           "ingredients": ["3 oz Avion Tequila", "1 ½ oz Cointreau", "2 cups chopped watermelon","1 cup ice", "2 oz lime juice" ],
+           "directions": "Freeze watermelon chunks for 2 hours. Rim your margarita glasses with lime and salt. In a blender combine frozen watermelon, ice, lime juice, Avion tequila, Cointreau and blend until smooth. Garnish with a lime wedge and sprig of mint.",
+           "image": "./Client/src/Images/watermelon-rita.jpg"
         },
         {
             "name": "LIMELIGHT",
@@ -501,43 +501,43 @@
             "image": "./Client/src/Images/HoneydewMarg.jpg"
          },
          {
-            "name": "Tequila Drink 24",
+            "name": "TEXAS SUNRISE",
             "liquor": "Tequila",
             "style": "Cocktail",
             "flavor": "Sweet",
             "strong": "Light",
-            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+            "ingredients": ["2 oz tequila", "4 oz orange juice", "1/2 oz grenadine","Orange for garnish" ],
             "directions": "placeholder directions",
-            "image": "./Client/src/Images/______________"
+            "image": "./Client/src/Images/TexasSunrise.png"
          },
          {
-           "name": "Tequila Drink 25",
+           "name": "PINEAPPLE MEZCAL SOUR",
            "liquor": "Tequila",
            "style": "Neat",
            "flavor": "Dry",
            "strong": "Light",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-           "directions": "placeholder directions",
-           "image": "./Client/src/Images/______________"
+           "ingredients": ["1 1/2 oz Rayu Mezcal", "2 oz pineapple juice", "1/2 tbsp agave syrup","1 oz lime juice", "Angostura Bitters" ],
+           "directions": "In a cocktail shaker combine ice, mezcal, pineapple juice, agave syrup, lime juice, and egg white. Shake until foamy. Strain into glass and add 3 drops of aromatic bitters.",
+           "image": "./Client/src/Images/MuertosRayuMescal.jpg"
         },
         {
-            "name": "Tequila Drink 26",
+            "name": "PRICKLY PEAR RITA",
             "liquor": "Tequila",
             "style": "On the rocks",
             "flavor": "Dry",
             "strong": "Light",
-            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-            "directions": "placeholder directions",
-            "image": "./Client/src/Images/______________"
+            "ingredients": ["3 oz tequila", "1/2 oz orange liqueur", "1 1/2 oz lime juice","2 oz prickly pear syrup" ],
+            "directions": "Combine tequila, liqueur, lime juice and syrup in a cocktail shaker and shake well. Pour into an ice-filled glass and enjoy!",
+            "image": "./Client/src/Images/TexasPricklyPearRita.png"
          },
          {
-            "name": "Tequila Drink 27",
+            "name": "ABOUT THYME LEMONADE",
             "liquor": "Tequila",
             "style": "Cocktail",
             "flavor": "Dry",
             "strong": "Light",
-            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-            "directions": "placeholder direction",
-            "image": "./Client/src/Images/______________"
+            "ingredients": ["3 oz tequila", "3 thyme sprigs", "1 tsp sugar","3 lemon wedges" ],
+            "directions": "Muddle thyme sprigs with sugar and 2 lemon wedges in a glass. Add tequila, ice and cold water to taste. Garnish with a lemon wedge and enjoy!",
+            "image": "./Client/src/Images/TandTLemonade.png"
           }
 ]
