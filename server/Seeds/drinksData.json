@@ -421,14 +421,14 @@
             "image": "./Client/src/Images/CantaloupeCrush.png"
          },
          {
-           "name": "Tequila Drink 16",
+           "name": "WATERMELON RITA",
            "liquor": "Tequila",
            "style": "Neat",
            "flavor": "Dry",
            "strong": "Moderate",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-           "directions": "placeholder directions",
-           "image": "./Client/src/Images/______________"
+           "ingredients": ["3 oz Avion Tequila", "1 ½ oz Cointreau", "2 cups chopped watermelon","1 cup ice", "2 oz lime juice" ],
+           "directions": "Freeze watermelon chunks for 2 hours. Rim your margarita glasses with lime and salt. In a blender combine frozen watermelon, ice, lime juice, Avion tequila, Cointreau and blend until smooth. Garnish with a lime wedge and sprig of mint.",
+           "image": "./Client/src/Images/watermelon-rita.jpg"
         },
         {
             "name": "LIMELIGHT",
@@ -501,24 +501,24 @@
             "image": "./Client/src/Images/HoneydewMarg.jpg"
          },
          {
-            "name": "Tequila Drink 24",
+            "name": "TEXAS SUNRISE",
             "liquor": "Tequila",
             "style": "Cocktail",
             "flavor": "Sweet",
             "strong": "Light",
-            "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
+            "ingredients": ["2 oz tequila", "4 oz orange juice", "1/2 oz grenadine","Orange for garnish" ],
             "directions": "placeholder directions",
             "image": "./Client/src/Images/______________"
          },
          {
-           "name": "Tequila Drink 25",
+           "name": "PINEAPPLE MEZCAL SOUR",
            "liquor": "Tequila",
            "style": "Neat",
            "flavor": "Dry",
            "strong": "Light",
-           "ingredients": ["placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3","placeholder ingredient1", "placeholder ingredient2", "placeholder ingredient3" ],
-           "directions": "placeholder directions",
-           "image": "./Client/src/Images/______________"
+           "ingredients": ["1 1/2 oz Rayu Mezcal", "2 oz pineapple juice", "1/2 tbsp agave syrup","1 oz lime juice", "Angostura Bitters" ],
+           "directions": "In a cocktail shaker combine ice, mezcal, pineapple juice, agave syrup, lime juice, and egg white. Shake until foamy. Strain into glass and add 3 drops of aromatic bitters.",
+           "image": "./Client/src/Images/MuertosRayuMescal.jpg"
         },
         {
             "name": "Tequila Drink 26",
