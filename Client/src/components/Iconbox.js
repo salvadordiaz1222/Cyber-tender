@@ -10,7 +10,7 @@ class Iconbox extends Component {
                   <div class="card-panel">
                     <i class="material-icons large light-green-text">local_bar</i>
                     <h4>Visit The Bar</h4>
-                    <p>Visit our online bar, where can choose what drink you like to be made via our descion tree.</p>
+                    <p>Visit our online bar, where you can choose what drink you like to be made via our descion tree.</p>
                   </div>
                 </div>
                 <div class="col s12 m4">
