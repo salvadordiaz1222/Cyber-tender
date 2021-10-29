@@ -65,12 +65,16 @@ const QuestionsOptions = () => {
   };
   console.log({ results });
   return (
+  <>
     <div>
       <h1>{currentQuestion.question}</h1>
       {questionOptions.map((opt) => (
         <Button onClick={() => onClickOption(opt)}>{opt}</Button>
       ))}
+
     </div>
+    
+  </>
   );
 };
 
